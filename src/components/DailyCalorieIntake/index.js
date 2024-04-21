@@ -1,0 +1,1 @@
+export { DailyCalorieIntake } from './DailyCalorieIntake';
