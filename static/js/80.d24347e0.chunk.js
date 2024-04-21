@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkslim_mom=self.webpackChunkslim_mom||[]).push([[80],{1080:function(e,n,s){s.r(n),s.d(n,{default:function(){return i}});var t=s(442),u=s(184),i=function(){return(0,u.jsxs)(t.Aq,{children:[(0,u.jsx)(t.h4,{localPage:"RegistrationPage"}),(0,u.jsx)(t.GG,{})]})}}}]);
+//# sourceMappingURL=80.d24347e0.chunk.js.map
